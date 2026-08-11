@@ -1,0 +1,5 @@
+.env
+whatsapp_profile/
+replied_messages.json
+__pycache__/
+*.pyc
